@@ -2,6 +2,15 @@
 
 Tew Tawan is just another frontend, fullstack, manager and ordinary engineer, currently based in Bangkok, Thailand.
 
+## Few things about me
+- Coffee or tea in the morning
+- Background music while coding [Music](https://www.youtube.com/watch?v=f02mOEt11OQ)
+- Don't like noises and any moving elements while blogging/slacking/managing 
+- WFH is the best productive hoursssss
+- Hobbies are surfing and camping
+- Introvert, quiet but Outgoing but Love privacy, I'm kinda Open but closed (depends on environment) :D So confusing I know but it's me.
+- I am a Good listener and talking to people is challenging
+
 # Coding
 - TypeScript, Reactjs, Nodejs, GraphQL
 - Frontend Architecture and Design Pattern
