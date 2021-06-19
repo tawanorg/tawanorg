@@ -1,6 +1,6 @@
 # About
 
-Tew Tawan is just another frontend, fullstack, manager and ordinary engineer, currently based in Bangkok, Thailand.
+Tew Tawan is just another self-taught frontend, fullstack, manager and ordinary engineer, currently based in Bangkok, Thailand.
 
 ###  Few little things about me
 - Coffee or tea in the morning while checking emails, reading articles/news/blogging plus planning for the day
