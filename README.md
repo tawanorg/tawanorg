@@ -3,7 +3,7 @@
 Tew Tawan is just another frontend, fullstack, manager and ordinary engineer, currently based in Bangkok, Thailand.
 
 ## Few little things about me
-- Coffee or tea in the morning while checking emails and planning for the day
+- Coffee or tea in the morning while checking emails, reading articles/news/blogging plus planning for the day
 - Background music while coding [Music](https://www.youtube.com/watch?v=f02mOEt11OQ)
 - Don't like noises and any moving elements while blogging/slacking/managing 
 - WFH is the best productive hoursssss
