@@ -4,8 +4,7 @@ Tew Tawan is just another frontend, fullstack, manager and ordinary engineer, cu
 
 ## Few little things about me
 - Coffee or tea in the morning while checking emails, reading articles/news/blogging plus planning for the day
-- Background music while coding [Music](https://www.youtube.com/watch?v=f02mOEt11OQ)
-- Don't like noises and any moving elements while blogging/slacking/managing 
+- Don't like noises and moving objects while working.
 - WFH is the best productive hoursssss
 - Hobbies are surfing and camping
 - Introvert, quiet but Outgoing but Love privacy, I'm kinda Open but closed (depends on environment) :D So confusing I know but it's me.
