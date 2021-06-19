@@ -1,12 +1,7 @@
 # About
 
-Tew Tawan is just another self-taught frontend, fullstack, manager and ordinary engineer, currently based in Bangkok, Thailand.
-
-###  Few little things about me
-- Coffee or tea in the morning while checking emails, reading articles/news/blogging plus planning for the day
-- Don't like noises and moving objects while working.
-- WFH is the best productive hoursssss
-- [See more](about.md)
+Tew Tawan is just another self-taught frontend, fullstack, manager and ordinary engineer, currently based in Bangkok, Thailand. <br>
+**Few little things about me** [Readmore](about.md)
 
 # Coding
 - TypeScript, Reactjs, Nodejs, GraphQL
