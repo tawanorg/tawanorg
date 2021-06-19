@@ -18,5 +18,5 @@ In 2019, a non-IT degree became somewhat an issue. So I decided to spend all of 
 
 Late 2020 to date, pandemic hit everyone, we're fortunate enough to leave Australia just before the border closed for another year. We've decided to leave because of health issues plus we needed a break after hard work from the last year. Thailand is the best place for holidays despite pandemics and lockdown was occasionally happened. In another hand, I wanted to make some friends personally, after 5 years in Australia, I had no time for friendship and building my SaaS businesses.
 
-2021, everything is fluid but we're happy where we at and grateful for what we have and archived. More importantly, we got solid and doable plans to do in life. We have serious responsibilities and goals.
+2021, everything is fluid but we're happy where we at and grateful for what we have and archived. More importantly, we got solid and doable plans for our future. "a man without a goal is like a ship without a rudder" right. 
  
