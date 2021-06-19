@@ -6,7 +6,7 @@ Tew Tawan is just another self-taught frontend, fullstack, manager and ordinary 
 - Coffee or tea in the morning while checking emails, reading articles/news/blogging plus planning for the day
 - Don't like noises and moving objects while working.
 - WFH is the best productive hoursssss
-[Readmore](about.md)
+- [See more](about.md)
 
 # Coding
 - TypeScript, Reactjs, Nodejs, GraphQL
