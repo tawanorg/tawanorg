@@ -12,9 +12,9 @@ Early 2013, I was on a hunt for "IT" job, and finally, I got my first "IT" job a
 
 Mid-Late 2013, I served in Thailand Military Service. It was a mixed feeling situation in months. Eventually, I was fortunate enough to survive my training...
 
-Eary 2014 to Early 2016: 'Young and the Restless'. I got another "IT" jobs as a web developer where I begin to met and made IT people, I was stupidly working, and learning along the way. I wasn't taken my life, job, and future seriously, I lacked self-discipline. I didn't do self-learning anymore because of drinking, partying and talking shit, bad relationships, and broken up. It was a dark time in my life. So one day in early 2016 I've decided to move on and change my life for good.
+Eary 2014 to Early 2016, I got another "IT" jobs as a web developer where I begin to met and made IT people, I was stupidly working, and learning along the way. I wasn't taken my life, job, and future seriously, I lacked self-discipline. I didn't do self-learning anymore because of drinking, partying and talking shit, bad relationships, and broken up. It was a dark time in my life. So one day in early 2016 I've decided to move on and change my life for good.
 
-In early 2016, I moved to Melbourne, Australia, with $1000 as pocket money and lived there until late 2020. It was the best time of my life where I took my career and life seriously. Those days, months, and years shaped me, my mindset, my behavior, the way I look/talk to people to myself, everything changed. I could not remember how I was back then. I became myself nowadays because of my decision, it was the best decision I ever made. I met a beautiful girl and married her and our relationship is awesome.
+In early 2016, I moved to Melbourne, Australia, with $1000 as pocket money and lived there until late 2020. It was the best time of my life where I took my career and life seriously. Those days, months, and years shaped me, my mindset, my behavior, the way I look/talk to people to myself, everything changed. I could not remember how I was back then. I became myself nowadays because of this decision, it was the best decision I ever made. I met a beautiful girl and married her and our relationship is awesome.
 
 In Australia, I worked hard and set higher goals in life and my career. I fortunate enough to work with Acquire Learning, Deloitte Digital, and few more companies with no IT degree. I learned and learning A LOT, both soft and hard skills. Of course, there are many ups and downs, but I grateful for the up and I learn from the down. I was mentally strong and independent. It might because I acquired survival skills when I was served in Military Service. :D
 
@@ -22,7 +22,7 @@ In 2019, a non-IT degree became somewhat an issue. So I decided to spend all of 
 
 Late 2020 to date, pandemic hit everyone, we're fortunate enough to leave Australia just before the border closed for another year. We've decided to leave because of health issues plus we needed a break after hard work from the last year. Thailand is the best place for holidays despite pandemics and lockdown was occasionally happened. In another hand, I wanted to make some friends personally, after 5 years in Australia, I had no time for friendship and building my SaaS businesses.
 
-2021, everything is fluid but we're happy where we at and grateful for what we have and archived. More importantly, we got solid and doable plans to do in life. We have serious responsibilities and goals.
+### 2021, everything is fluid but we're happy where we at and grateful for what we have and archived. More importantly, we got solid and doable plans to do in life. We have serious responsibilities and goals.
 
 Links
 - Twitter: https://twitter.com/tawanorg
