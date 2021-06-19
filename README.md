@@ -1,6 +1,6 @@
 # About
 
-Tew Tawan is a frontend and fullstack engineer, currently based in Bangkok, Thailand. Furtunately, I'm working for BRIKL.com in Thailand as Frontend Engineering Manager. 
+Tew Tawan is just another frontend, fullstack, manager and ordinary engineer, currently based in Bangkok, Thailand.
 
 # Coding
 - TypeScript, Reactjs, Nodejs, GraphQL
