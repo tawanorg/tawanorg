@@ -1,6 +1,6 @@
 # About
 
-Tew Tawan is just another self-taught frontend, fullstack, manager and ordinary engineer, currently based in Bangkok, Thailand. <br>
+Tew Tawan is just another self-taught frontend, fullstack, manager and developer, currently based in Bangkok, Thailand. <br>
 **Few little things about me** [Readmore](about.md)
 
 # Coding
@@ -9,10 +9,9 @@ Tew Tawan is just another self-taught frontend, fullstack, manager and ordinary 
 - PostgreSQL, Redis, MongoDB
 - AWS Microservices, Dockerization & Containerization and Continuous Delivery
 
-# Life and Career Background
+# Background
 
-I was fullstack engineer but my main strength always been Frontend related. I started my career as a self-taught developer, was learning ASP, MsSQL, CSS back in 2009 just for fun and little money, it was a time when I liked coding and it became one of my hobbies. Fast-forward, like every ordinary person, went to high school and university. I graduated with a Bachelor of Business in 2012. 
-[Readmore](background.md)
+I was a self-taught web developer since I was in high school. I code for fun and little money. After graduation with a bachelor of business. But I've decided to embrace my dream career as my web developer in 2014. I've moved to Melbourne, Australia in 2016 that where my career really takes off. I work as a full-stack engineer in Australia since 2016, but frontend is always my main forte. 
 
 # Links
 - Twitter: https://twitter.com/tawanorg
