@@ -11,6 +11,6 @@ Tew Tawan is just another self-taught frontend, fullstack, manager and developer
  
 # Links
 - Twitter: https://twitter.com/tawanorg
-- LinkedIn: https://linkedin.com/in/tawanc/
+- LinkedIn: https://www.linkedin.com/in/tewtawan
 - Instagram: https://instagram.com/tawanorg
 - Website: https://tawan.org
