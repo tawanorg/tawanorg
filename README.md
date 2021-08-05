@@ -10,13 +10,13 @@ Check it out at ‣ Brikl.com
 ## 🔥 Side hustles
 
 ✍️ I'm teaching beginners how to develop scalable web applications with combinations of tools and techniques I’ve learned in the past years of working in this space. 
-Check it out ‣ Blog.tawan.org 
+Check it out ‣ [Blog](https://blog.tawan.org)
 
 🍕 A food ordering software as a service for restaurants or cafes. Everything you need to run online food reservations at a low cost.
-Check it out ‣ Aroibook.com
+Check it out ‣ [Aroibook.com](https://aroibook.com)
 
 🎨 A tiny fonts marketplace for fonts creators.
-Check it out ‣ Premiumfonts.art
+Check it out ‣ [Premiumfonts.art](https://premiumfonts.art)
 
 ## 🤖 My Go-to Coding Stacks
 ‣ TypeScript, Reactjs, Nodejs, GraphQL<br>
