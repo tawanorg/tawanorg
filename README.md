@@ -15,9 +15,6 @@ Check it out ‣ [Blog](https://blog.tawan.org)
 🍕 A food ordering software as a service for restaurants or cafes. Everything you need to run online food reservations at a low cost.
 Check it out ‣ [Aroibook.com](https://aroibook.com)
 
-🎨 A tiny fonts marketplace for fonts creators.
-Check it out ‣ [Premiumfonts.art](https://premiumfonts.art)
-
 ## 🤖 My Go-to Coding Stacks
 ‣ TypeScript, Reactjs, Nodejs, GraphQL<br>
 ‣ Frontend Architecture, Design Pattern, MicroFrontend<br>
