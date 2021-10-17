@@ -14,7 +14,7 @@ Check it out at ‣ Brikl.com
 ‣ AWS Microservices, Dockerization & Containerization and Continuous Delivery<br>
  
 # Links
+‣ Website: https://tawan.org<br>
 ‣ Twitter: https://twitter.com/tawanorg<br>
 ‣ LinkedIn: https://www.linkedin.com/in/tawanorg<br>
 ‣ Instagram: https://instagram.com/tawanorg<br>
-‣ Blog: https://blog.tawan.org<br>
