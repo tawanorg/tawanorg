@@ -4,8 +4,7 @@
 
 I'm just another self-taught front-end, full-stack, and typical engineer. I do everything from UXUI analysis to building a working product. 
 
-🙏 Currently, I am working as Frontend Engineering Manager for a fast-growing startup 3D Base eCommerce Platform. 
-Check it out at ‣ Brikl.com
+🙏 Currently, I am working as Senior Frontend Engineer for a fast-growing startup 3D Base eCommerce Platform. Check it out at ‣ Brikl.com
 
 ## 🤖 My Go-to Coding Stacks
 ‣ TypeScript, Reactjs, Nodejs, GraphQL<br>
