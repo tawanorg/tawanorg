@@ -25,11 +25,15 @@ Here are some of my featured designs on Dribbble:
 
 <p align="center">
   <a href="https://dribbble.com/tawanorg">
-    <img src="https://cdn.dribbble.com/users/your-user-id/screenshots/your-shot-id/image.png" alt="Design 1" width="300" />
+    <img src="https://cdn.dribbble.com/userupload/24914682/file/original-7c9c262210b8c680aa18c0b862f9da35.png?resize=1905x1558&vertical=center" alt="Design 1" width="300" />
   </a>
   <a href="https://dribbble.com/tawanorg">
-    <img src="https://cdn.dribbble.com/users/your-user-id/screenshots/your-shot-id/image.png" alt="Design 2" width="300" />
+    <img src="https://cdn.dribbble.com/userupload/24574977/file/original-f9e17de237220c4338493f40c2d6a761.png?resize=1600x1200&vertical=center" alt="Design 2" width="300" />
   </a>
+  <a href="https://dribbble.com/tawanorg">
+    <img src="https://cdn.dribbble.com/userupload/24559549/file/original-69ecd6f65177f9f7a3d241f977f5a55a.png?resize=800x600&vertical=center" alt="Design 2" width="300" />
+  </a>
+   
 </p>
 
 <p align="center">
