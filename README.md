@@ -21,7 +21,7 @@
 </div>
 
 ## Design Showcase
-Here are some of my featured designs on Dribbble:
+Here are some of my featured mobile app designs on Dribbble:
 
 <p align="center">
   <a href="https://dribbble.com/tawanorg">
