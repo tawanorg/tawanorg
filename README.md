@@ -20,6 +20,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
 </div>
 
+## Design Showcase
+Here are some of my featured designs on Dribbble:
+
+<p align="center">
+  <a href="https://dribbble.com/tawanorg">
+    <img src="https://cdn.dribbble.com/users/your-user-id/screenshots/your-shot-id/image.png" alt="Design 1" width="300" />
+  </a>
+  <a href="https://dribbble.com/tawanorg">
+    <img src="https://cdn.dribbble.com/users/your-user-id/screenshots/your-shot-id/image.png" alt="Design 2" width="300" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Explore more designs on my <a href="https://dribbble.com/tawanorg">Dribbble profile</a>.</em>
+</p>
+
+
 ## Links
 - Website: [tawan.org](https://tawan.org)
 - LinkedIn: [linkedin.com/in/tawanorg](https://www.linkedin.com/in/tawanorg)
