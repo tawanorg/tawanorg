@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%40tawanorg-239a3b.svg)](https://github.com/tawanorg)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/tawanorg/)
 [![X](https://img.shields.io/badge/X-%40tawanorg-222222.svg)](https://x.com/tawanorg)
-[![Drive](https://img.shields.io/badge/X-%40tawanorg-222222.svg)]([https://x.com/tawanorg](https://drive.google.com/file/d/1TQDoATDaQrTHcw7r4VhrRaTczvighM5u/view?usp=sharing))
+[![Drive](https://img.shields.io/badge/GoogleDrive-%40tawanorg-222222.svg)]([https://x.com/tawanorg](https://drive.google.com/file/d/1TQDoATDaQrTHcw7r4VhrRaTczvighM5u/view?usp=sharing))
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" />
