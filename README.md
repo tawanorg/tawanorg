@@ -14,7 +14,8 @@ I build web and mobile apps. Been doing this for 10 years—shipping React front
 
 - 💻 Build scalable full-stack applications with **React**, **TypeScript**, **Node.js**
 - 📱 Develop cross-platform mobile apps with **React Native** and **Expo**
-- ☁️ Design serverless architectures on **AWS** (Lambda, DynamoDB, S3, CloudFront)
+- ☁️ Design and implement serverless architectures on **AWS**
+- 🗄️ Work with both SQL and NoSQL databases (**PostgreSQL**, **MongoDB**)
 - 🤖 Integrate AI/ML capabilities into production applications
 - 🏗️ Implement clean architecture patterns and maintainable codebases
 
