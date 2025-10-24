@@ -52,10 +52,7 @@ Building secure payment infrastructure and developing React Native mobile applic
 
 ### [DevWithAI.com](https://devwithai.com)
 A platform for developers working with AI tools and technologies. Sharing knowledge, best practices, and real-world implementations of AI in software development.
-
-### [Kontextu.com](https://kontextu.com)
-Contextual Memory for AI - Building a living network of memories through Brains and Cells that evolve as users interact with AI assistants.
-
+ 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
