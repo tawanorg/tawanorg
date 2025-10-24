@@ -1,6 +1,6 @@
 # Hi there, I'm Tawan 👋
 
-**Full-Stack Software Engineer & AI Software Developer**
+**Full-Stack Software Engineer & Wannabe-AI Software Developer**
 
 I build web and mobile apps. Been doing this for 10 years—shipping React frontends, React Native apps, and Node.js backends. Work extensively with AWS, building serverless architectures and microservices.
 
