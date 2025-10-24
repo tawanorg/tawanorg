@@ -67,6 +67,6 @@ I follow [SCS Architecture](https://scs-architecture.org/) principles for buildi
 
 ⚡ **Fun fact**: I've been shipping production code for 10 years across e-commerce, fintech, logistics, and property management domains.
 
-📫 **Get in touch**: [hi@tawan.org](mailto:hi@tawan.org)
+📫 **Get in touch**: [hello@tawan.org](mailto:hello@tawan.org)
 
 🌐 **Portfolio**: [www.tawan.org](https://www.tawan.org)
