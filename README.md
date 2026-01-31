@@ -10,6 +10,11 @@ I build web and mobile apps. Been doing this for 10 years—shipping React front
 
 ---
 
+## 🌟 Current Projects
+
+- **[DevWithAI.com](https://devwithai.com)** – Curated directory to discover and compare 500+ AI development tools
+- **[Convosify.com](https://convosify.com)** – macOS app that detects problematic language in messages before you send them
+
 ## 🚀 What I Do
 
 - 💻 Build scalable full-stack applications with **React**, **TypeScript**, **Node.js**
@@ -43,25 +48,11 @@ I build web and mobile apps. Been doing this for 10 years—shipping React front
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-## 💼 Current Work
-
-**Software Developer** @ [Keypa](https://keypa.io) (Apr 2025 – Present)
-Building secure payment infrastructure and developing React Native mobile applications for property management solutions.
-
-## 🌟 Side Projects
-
-### [DevWithAI.com](https://devwithai.com)
-A platform for developers working with AI tools and technologies. Sharing knowledge, best practices, and real-world implementations of AI in software development.
- 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 Visit [tawan.org/blog](https://www.tawan.org/blog) for my latest articles on full-stack development, AI integration, and software engineering.
 <!-- BLOG-POST-LIST:END -->
-
-## 💡 Architecture & Best Practices
-
-I follow [SCS Architecture](https://scs-architecture.org/) principles for building scalable, maintainable systems. Check out my thoughts on ["How I code"](https://www.tawan.org/#how-i-code) for insights into my development philosophy.
 
 ---
 
