@@ -12,8 +12,9 @@ I build web and mobile apps. Been doing this for 10 years—shipping React front
 
 ## 🌟 Current Projects
 
-- **[DevWithAI.com](https://devwithai.com)** – Curated directory to discover and compare 500+ AI development tools
+- **[claude-sync](https://github.com/tawanorg/claude-sync)** – Sync Claude Code sessions across devices using Cloudflare R2 with end-to-end encryption
 - **[Convosify.com](https://convosify.com)** – macOS app that detects problematic language in messages before you send them
+- **[DevWithAI.com](https://devwithai.com)** – Curated directory to discover and compare 500+ AI development tools
 
 ## 🚀 What I Do
 
