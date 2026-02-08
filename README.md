@@ -49,15 +49,7 @@ I build web and mobile apps. Been doing this for 10 years—shipping React front
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-Visit [tawan.org/blog](https://www.tawan.org/blog) for my latest articles on full-stack development, AI integration, and software engineering.
-<!-- BLOG-POST-LIST:END -->
-
 ---
-
-⚡ **Fun fact**: I've been shipping production code for 10 years across e-commerce, fintech, logistics, and property management domains.
 
 📫 **Get in touch**: [hello@tawan.org](mailto:hello@tawan.org)
 
